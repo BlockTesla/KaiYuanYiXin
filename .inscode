@@ -1,4 +1,5 @@
-run = "pip install -r requirements.txt;python "
+run = "pip install -r requirements.txt;python AI_kernel/TONGYI/Qwen-VL/web_demo_mm.py
+"
 language = "python"
 
 [packager]
